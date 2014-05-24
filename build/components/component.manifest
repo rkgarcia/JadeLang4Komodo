@@ -1,0 +1,3 @@
+contract @activestate.com/koLanguage?language=Jade;1 {f536e6b1-7222-4a47-8867-2d2e84df9ddf}
+category komodo-language Jade @activestate.com/koLanguage?language=Jade;1
+component {f536e6b1-7222-4a47-8867-2d2e84df9ddf} koJade_UDL_Language.py

@@ -1,0 +1,4 @@
+content jade_support content/
+skin jade_support classic/1.0 skin/
+locale jade_support en-US locale/en-US/
+
