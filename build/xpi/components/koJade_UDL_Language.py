@@ -19,8 +19,10 @@ class KoJadeLanguage(KoUDLLanguage):
     _reg_desc_ = "%s Language" % name
     _reg_contractid_ = "@activestate.com/koLanguage?language=%s;1" % name
     _reg_categories_ = [("komodo-language", name)]
-    _reg_clsid_ = "f536e6b1-7222-4a47-8867-2d2e84df9ddf"
+    _reg_clsid_ = "4ce4aaec-f00c-43d4-bd20-d3e43dfd3e3a"
+
     defaultExtension = '.jade'
+    primary = 1  # Whether the language shows up in Komodo's first level language menus.
 
     # ------------ Commenting Controls ------------ #
 

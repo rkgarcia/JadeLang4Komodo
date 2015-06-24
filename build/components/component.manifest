@@ -1,3 +1,4 @@
-contract @activestate.com/koLanguage?language=Jade;1 {f536e6b1-7222-4a47-8867-2d2e84df9ddf}
 category komodo-language Jade @activestate.com/koLanguage?language=Jade;1
-component {f536e6b1-7222-4a47-8867-2d2e84df9ddf} koJade_UDL_Language.py
+contract @activestate.com/koLanguage?language=Jade;1 {4ce4aaec-f00c-43d4-bd20-d3e43dfd3e3a}
+category komodo-language-info Jade %7B%22name%22%3A%20%22Jade%22%2C%20%22defaultExtension%22%3A%20%22.jade%22%2C%20%22primary%22%3A%201%7D
+component {4ce4aaec-f00c-43d4-bd20-d3e43dfd3e3a} koJade_UDL_Language.py
